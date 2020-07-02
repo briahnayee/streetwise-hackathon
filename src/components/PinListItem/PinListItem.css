@@ -44,5 +44,6 @@
 
   .highlighted {
       border: solid #00B16A;
+      border-left: none;
       /* background-color: rgba(0, 177, 106, 1); */
   }
